@@ -1,7 +1,6 @@
 ---
 title: "Practical Machine Learning: Prediction Project"
 author: "Eric Erkela"
-date: "11/22/2020"
 output: 
   html_document: 
     keep_md: yes
